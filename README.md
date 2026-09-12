@@ -1,4 +1,5 @@
-# Moon Formation — Secondary Circumterrestrial Disk Theory
+# Formation de la Lune / Moon Formation  
+## Théorie du disque secondaire circumterrestre / Secondary Circumterrestrial Disk Theory
 [Version française du README](README_FR.md)
 
 **Author:** Michel Debailleul  

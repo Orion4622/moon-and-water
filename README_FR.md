@@ -1,7 +1,7 @@
 # Formation de la Lune — Théorie du disque secondaire circumterrestre
 
 **Auteur :** Michel Debailleul  
-**Formation :** Géophysicien — Master, ULB
+**Formation :** Géophysicien — Master, ULB  
 **Version :** v1.0.0 — Version fondatrice  
 **Licence :** CC BY-NC 4.0  
 **DOI :** à venir après publication Zenodo

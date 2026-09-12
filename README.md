@@ -1,9 +1,11 @@
 # Moon Formation — Secondary Circumterrestrial Disk Theory
+[Version française du README](README_FR.md)
 
 **Author:** Michel Debailleul  
 **Version:** v1.0.0 — Foundational release  
 **License:** CC BY-NC 4.0  
 **DOI:** forthcoming after Zenodo release
+
 
 ---
 

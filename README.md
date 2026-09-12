@@ -69,6 +69,9 @@ Formation_Lune_Theorie_disque_secondaire_circumterrestre.tex
 Moon_Formation_Secondary_Circumterrestrial_Disk_Theory.pdf
 Moon_Formation_Secondary_Circumterrestrial_Disk_Theory.tex
 
+Cover_Moon_Formation_EN.png
+Couverture LUNE FR.png
+
 Carte_etaL_pilote.png
 Map_etal_driver.png
 

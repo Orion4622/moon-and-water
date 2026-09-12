@@ -1,12 +1,25 @@
-# Moon Formation  /  Formation de la Lune
-## Secondary Circumterrestrial Disk Theory / Théorie du disque secondaire circumterrestre 
-[Version française du README](README_FR.md)
+# Moon Formation / Formation de la Lune
+
+## Secondary Circumterrestrial Disk Theory / Théorie du disque secondaire circumterrestre
+
+[Lire la version française du README](README_FR.md)
 
 **Author:** Michel Debailleul  
 **Version:** v1.0.0 — Foundational release  
 **License:** CC BY-NC 4.0  
 **DOI:** forthcoming after Zenodo release
 
+---
+
+## Covers
+
+### English cover
+
+![English cover](Cover_Moon_Formation_EN.png)
+
+### French cover
+
+![French cover](Couverture%20LUNE%20FR.png)
 
 ---
 
@@ -62,17 +75,116 @@ It is falsified if no such domain exists.
 
 ## Repository contents
 
+### Monographs
+
+- `Formation_Lune_Theorie_disque_secondaire_circumterrestre.pdf`  
+  French full monograph in PDF format.
+
+- `Formation_Lune_Theorie_disque_secondaire_circumterrestre.tex`  
+  French LaTeX source file.
+
+- `Moon_Formation_Secondary_Circumterrestrial_Disk_Theory.pdf`  
+  English full monograph in PDF format.
+
+- `Moon_Formation_Secondary_Circumterrestrial_Disk_Theory.tex`  
+  English LaTeX source file.
+
+### Book covers
+
+- `Couverture LUNE FR.png`  
+  French book cover.
+
+- `Cover_Moon_Formation_EN.png`  
+  English book cover.
+
+### Figures
+
+- `Carte_etaL_pilote.png`  
+  French pilot heat map of the fraction placed in the lunar window.
+
+- `Map_etal_driver.png`  
+  English pilot heat map of the fraction placed in the lunar window.
+
+### Archive
+
+- `Formation_Lune_Moon_Formation_STRICT_FR_EN.zip`  
+  Complete archive containing the French and English LaTeX sources, PDFs and figures.
+
+---
+
+## French version
+
+**Title:**  
+*Formation de la Lune — Théorie du disque secondaire circumterrestre*
+
+**Main file:**  
+`Formation_Lune_Theorie_disque_secondaire_circumterrestre.pdf`
+
+This version presents the complete French monograph, including the physical hypothesis, dynamical framework, reservoir architecture, geochemical constraints, viability domain and testable predictions.
+
+---
+
+## English version
+
+**Title:**  
+*Moon Formation — Secondary Circumterrestrial Disk Theory*
+
+**Main file:**  
+`Moon_Formation_Secondary_Circumterrestrial_Disk_Theory.pdf`
+
+This version is the English counterpart of the French monograph and follows the same structure, concepts and scientific argument.
+
+---
+
+## Keywords
+
+Moon formation; circumterrestrial disk; secondary accretion; non-collisional encounter; orbital sorting; angular momentum; Roche limit; lunar geochemistry; primordial orbital instability; eliminated planet.
+
+---
+
+## Suggested citation
+
+Until a DOI is assigned, please cite this work as:
+
 ```text
-Formation_Lune_Theorie_disque_secondaire_circumterrestre.pdf
-Formation_Lune_Theorie_disque_secondaire_circumterrestre.tex
+Debailleul, Michel. 2026.
+Moon Formation / Formation de la Lune:
+Secondary Circumterrestrial Disk Theory / Théorie du disque secondaire circumterrestre.
+Foundational release v1.0.0.
+GitHub repository.
+```
 
-Moon_Formation_Secondary_Circumterrestrial_Disk_Theory.pdf
-Moon_Formation_Secondary_Circumterrestrial_Disk_Theory.tex
+After Zenodo publication, the DOI citation should be used.
 
-Cover_Moon_Formation_EN.png
-Couverture LUNE FR.png
+---
 
-Carte_etaL_pilote.png
-Map_etal_driver.png
+## License
 
-Formation_Lune_Moon_Formation_STRICT_FR_EN.zip
+This work is licensed under the:
+
+**Creative Commons Attribution-NonCommercial 4.0 International License**  
+**CC BY-NC 4.0**
+
+© 2026 Michel Debailleul.
+
+You are free to share and adapt the work for non-commercial purposes, provided appropriate credit is given.
+
+Commercial use is not permitted without permission from the author.
+
+---
+
+## Contact
+
+**Michel Debailleul**  
+Independent researcher  
+ORCID: 0009-0003-1222-1433
+
+---
+
+## Disclaimer
+
+This repository presents a scientific hypothesis and a retrodictive theoretical framework.
+
+It is intended for discussion, testing, criticism and further development.
+
+The theory is not presented as a proven reconstruction of lunar formation, but as a quantitatively testable physical path.

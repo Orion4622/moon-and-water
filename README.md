@@ -8,7 +8,7 @@
 **Academic background:** Geophysicist — M.Sc., ULB  
 **Version:** v1.0.0 — Foundational release  
 **License:** CC BY-NC 4.0  
-**DOI:** forthcoming after Zenodo release
+**DOI:** https://doi.org/10.5281/zenodo.22723026
 
 ---
 

@@ -11,7 +11,7 @@
 **DOI:** https://doi.org/10.5281/zenodo.22770198
 **ORCID:** 0009-0003-1222-1433
 
-(The Moon and Water.png)
+(Picture) (The Moon and Water.png)
 
 ---
 

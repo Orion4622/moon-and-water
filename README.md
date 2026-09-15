@@ -1,191 +1,149 @@
-# Moon Formation / Formation de la Lune
+# The Moon and Water
 
-## Secondary Circumterrestrial Disk Theory / Théorie du disque secondaire circumterrestre
+## Secondary Circumterrestrial Disk and Non-Collisional Passage of a Massive Planetary Body
 
-[Lire la version française du README](README_FR.md)
+[Lire la version française de ce README](README_FR.md)
 
-**Author:** Michel Debailleul  
-**Academic background:** Geophysicist — M.Sc., ULB  
-**Version:** v1.0.0 — Foundational release  
-**License:** CC BY-NC 4.0  
+**Author:** Michel Debailleul
+**Academic background:** Geophysicist — M.Sc., Université libre de Bruxelles (ULB)
+**Version:** v2.0
+**License:** CC BY-NC 4.0
 **DOI:** https://doi.org/10.5281/zenodo.22723026
+**ORCID:** 0009-0003-1222-1433
+
+![Cover](cover_EN.png)
 
 ---
 
-## Covers
+## What this work proposes
 
-### English cover
+A physical path from the proto-terrestrial system to the Earth–Moon system, in which a single
+event accounts for both the Moon and terrestrial water.
 
-![English cover](Cover_Moon_Formation_EN.png)
+The proto-Earth rotates close to its limit, dilated by some thirteen per cent, its surface a magma
+ocean whose iron has already migrated to the core. It carries a secondary disk, as forming planets
+do. A body arriving from the cold regions of the system passes at three Earth radii, prograde,
+slightly inclined so as to clear the disk.
 
-### French cover
+During the few hours it is close, its tidal field lifts material from the intertropical belt of the
+magma ocean and strips metal-depleted silicate. That material joins the disk, circularizes, and
+transport carries it beyond the Roche limit where it accretes into a single satellite. At the same
+time the passing body undergoes the reverse: its icy envelope, heated by the radiation of the magma
+ocean, dilates until it overflows its own Roche lobe and yields its volatiles to the terrestrial
+system. The exchange is asymmetric, each body giving what its nature allows it to give.
 
-![French cover](Couverture%20LUNE%20FR.png)
-
----
-
-## Overview
-
-This repository contains the French and English versions of the monograph:
-
-**Formation de la Lune — Théorie du disque secondaire circumterrestre**  
-**Moon Formation — Secondary Circumterrestrial Disk Theory**
-
-The work proposes a **retrodictive physical path theory** for the formation of the Earth–Moon system.
-
-It does not claim to reconstruct uniquely what actually happened in Solar System history. Instead, it investigates whether there exists a continuous, physically admissible, quantitatively constrained and falsifiable path linking a possible proto-terrestrial state to the observed Earth–Moon system.
+The body then departs, carrying away part of the stripped terrestrial material and with it the
+excess angular momentum, and leaving behind a trail that will keep falling back for tens of
+millions of years.
 
 ---
 
-## Scientific idea
+## Main results
 
-The theory is based on four central elements:
+**A single condition.** The specific angular momentum carried by each stripped layer admits a
+closed form in which the rotation term and the tidal impulse term share the same radial dependence.
+The condition for crossing the Roche limit therefore reduces to one quantity combining the reduced
+rotation of the proto-Earth, its dilation, the mass of the perturber and its approach distance.
 
-1. A pre-existing **secondary circumterrestrial disk** or reservoir around the proto-Earth.
-2. A grazing, non-collisional passage of a planetary body named **B**.
-3. A redistribution of mass and angular momentum between circumterrestrial and proto-terrestrial reservoirs.
-4. Orbital sorting of material, allowing part of the disk material to circularise beyond the Roche limit and contribute to lunar formation.
+**A level surface, not a volume.** Along the contour producing one lunar mass, that quantity stays
+constant to better than 0.5 %, including when the approach distance is varied. The viable domain is
+a one-parameter family: constraining one quantity fixes the others.
 
-In this framework, planet **B** is not treated as a lunar precursor, an impactor, or the main supplier of lunar material.
+**A confined uncertainty.** Changing the internal structure of the proto-Earth alters the mass
+produced by a factor of nine, but shifts the threshold by only six per cent.
 
-It is defined as a transient gravitational agent:
+**A prograde passage is required.** The tidal impulse reverses sign in the retrograde case and
+closes the injection channel entirely. A test-particle calculation confirms this independently for
+the pre-existing reservoir: prograde, 18.5 % of the reservoir reaches the lunar window and 84 % of
+the mass stays bound; retrograde, the window fraction falls to 4.0 % and 42.5 % escapes.
 
-> Planet B acts as a temporary gravitational agent redistributing mass and angular-momentum fluxes between the circumterrestrial and proto-terrestrial reservoirs.
-
-Its later disappearance is interpreted within the broader context of planetary bodies present in the primitive Solar System but absent from the present one.
+**Geochemistry follows from geometry.** The stripped material comes from the outer layers, hence
+from silicate whose metal has already left. The iron deficit, the isotopic identity in O, Ti, Cr
+and W, and the terrestrial signature of lunar water are consequences of provenance rather than
+independent hypotheses.
 
 ---
 
 ## Methodological status
 
-This work is a **path theory**, not a claim of historical uniqueness.
+This is a **path theory**, and the distinction matters. The question addressed is not which unique
+event occurred, but whether a continuous, quantitatively constrained and falsifiable path links a
+possible proto-terrestrial state to the observed Earth–Moon system.
 
-The central question is therefore not:
+The work defines a viable domain as the intersection of seventeen gates, and states for each one
+whether it has been cleared, sketched, or still requires calculation. Three are cleared on
+quantitative grounds. Four require a calculation not yet carried out. The remainder rest on
+established but unquantified arguments. That map is given explicitly in the monograph.
 
-> Which unique event actually occurred?
-
-but rather:
-
-> Does there exist a continuous, quantitatively constrained and falsifiable physical path linking a possible proto-terrestrial state to the observed Earth–Moon system?
-
-The theory becomes credible if a continuous domain of parameters satisfies the dynamical, geochemical, isotopic, thermodynamic and chronological constraints together.
-
-It is falsified if no such domain exists.
+The theory is falsified if no continuous domain satisfies the dynamical, geochemical, isotopic,
+thermodynamic and chronological constraints together.
 
 ---
 
 ## Repository contents
 
-### Monographs
+| File | Description |
+| --- | --- |
+| `LuneEau.tex` | French LaTeX source |
+| `LuneEau.pdf` | French monograph, 95 pages |
+| `MoonWater.tex` | English LaTeX source |
+| `MoonWater.pdf` | English monograph, 95 pages |
+| `couverture_FR.png` | French title page |
+| `cover_EN.png` | English title page |
 
-- `Formation_Lune_Theorie_disque_secondaire_circumterrestre.pdf`  
-  French full monograph in PDF format.
-
-- `Formation_Lune_Theorie_disque_secondaire_circumterrestre.tex`  
-  French LaTeX source file.
-
-- `Moon_Formation_Secondary_Circumterrestrial_Disk_Theory.pdf`  
-  English full monograph in PDF format.
-
-- `Moon_Formation_Secondary_Circumterrestrial_Disk_Theory.tex`  
-  English LaTeX source file.
-
-### Book covers
-
-- `Couverture LUNE FR.png`  
-  French book cover.
-
-- `Cover_Moon_Formation_EN.png`  
-  English book cover.
-
-### Figures
-
-- `Carte_etaL_pilote.png`  
-  French pilot heat map of the fraction placed in the lunar window.
-
-- `Map_etal_driver.png`  
-  English pilot heat map of the fraction placed in the lunar window.
-
-### Archive
-
-- `Formation_Lune_Moon_Formation_STRICT_FR_EN.zip`  
-  Complete archive containing the French and English LaTeX sources, PDFs and figures.
+Both sources are self-contained: every figure is drawn in TikZ, so no external image is required.
 
 ---
 
-## French version
+## Compiling
 
-**Title:**  
-*Formation de la Lune — Théorie du disque secondaire circumterrestre*
+```
+pdflatex -interaction=nonstopmode MoonWater.tex
+pdflatex -interaction=nonstopmode MoonWater.tex
+pdflatex -interaction=nonstopmode MoonWater.tex
+```
 
-**Main file:**  
-`Formation_Lune_Theorie_disque_secondaire_circumterrestre.pdf`
+Three passes are needed: the first writes the table of contents and cross-references, the second
+resolves them, the third settles the pagination. Or simply `latexmk -pdf MoonWater.tex`, which
+handles the passes on its own.
 
-This version presents the complete French monograph, including the physical hypothesis, dynamical framework, reservoir architecture, geochemical constraints, viability domain and testable predictions.
-
----
-
-## English version
-
-**Title:**  
-*Moon Formation — Secondary Circumterrestrial Disk Theory*
-
-**Main file:**  
-`Moon_Formation_Secondary_Circumterrestrial_Disk_Theory.pdf`
-
-This version is the English counterpart of the French monograph and follows the same structure, concepts and scientific argument.
+A full TeX distribution is required (TeX Live, MiKTeX or MacTeX). Compilation takes a few seconds
+locally; online services with short compile limits may time out.
 
 ---
 
 ## Keywords
 
-Moon formation; circumterrestrial disk; secondary accretion; non-collisional encounter; orbital sorting; angular momentum; Roche limit; lunar geochemistry; primordial orbital instability; eliminated planet.
+Moon formation; lunar water; volatiles; D/H ratio; circumterrestrial disk; secondary accretion;
+non-collisional encounter; orbital sorting; angular momentum; Roche limit; lunar geochemistry;
+primordial orbital instability; eliminated planet.
 
 ---
 
-## Suggested citation
-
-Until a DOI is assigned, please cite this work as:
+## Citation
 
 ```text
 Debailleul, Michel. 2026.
-Moon Formation / Formation de la Lune:
-Secondary Circumterrestrial Disk Theory / Théorie du disque secondaire circumterrestre.
-Foundational release v1.0.0.
-GitHub repository.
+The Moon and Water: Secondary Circumterrestrial Disk and
+Non-Collisional Passage of a Massive Planetary Body.
+Version 2.0. Zenodo. https://doi.org/10.5281/zenodo.22723026
 ```
-
-After Zenodo publication, the DOI citation should be used.
 
 ---
 
 ## License
 
-This work is licensed under the:
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
 
-**Creative Commons Attribution-NonCommercial 4.0 International License**  
-**CC BY-NC 4.0**
-
-© 2026 Michel Debailleul.
-
-You are free to share and adapt the work for non-commercial purposes, provided appropriate credit is given.
-
-Commercial use is not permitted without permission from the author.
+© 2026 Michel Debailleul. You are free to share and adapt the work for non-commercial purposes,
+provided appropriate credit is given. Commercial use requires permission from the author.
 
 ---
 
-## Contact
+## Contact and criticism
 
-**Michel Debailleul**  
-Independent researcher  
-ORCID: 0009-0003-1222-1433
+Michel Debailleul, independent researcher. ORCID 0009-0003-1222-1433.
 
----
-
-## Disclaimer
-
-This repository presents a scientific hypothesis and a retrodictive theoretical framework.
-
-It is intended for discussion, testing, criticism and further development.
-
-The theory is not presented as a proven reconstruction of lunar formation, but as a quantitatively testable physical path.
+This work is offered for discussion, testing and criticism. Objections bearing on the calculations,
+on the gates still to be cleared, or on the constraints the path must satisfy are particularly
+welcome.

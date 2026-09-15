@@ -8,7 +8,7 @@
 **Academic background:** Geophysicist — M.Sc., Université libre de Bruxelles (ULB)
 **Version:** v2.0
 **License:** CC BY-NC 4.0
-**DOI:** https://doi.org/10.5281/zenodo.22723026
+**DOI:** https://doi.org/10.5281/zenodo.22770198
 **ORCID:** 0009-0003-1222-1433
 
 ![Cover](cover_EN.png)

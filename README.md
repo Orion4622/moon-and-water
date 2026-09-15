@@ -10,8 +10,8 @@
 **License:** CC BY-NC 4.0
 **DOI:** https://doi.org/10.5281/zenodo.22770198
 **ORCID:** 0009-0003-1222-1433
-![Couverture](cover_FR.png)
 
+![Cover](cover_EN.png)
 ---
 
 ## What this work proposes

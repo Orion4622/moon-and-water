@@ -146,3 +146,9 @@ Michel Debailleul, independent researcher. ORCID 0009-0003-1222-1433.
 This work is offered for discussion, testing and criticism. Objections bearing on the calculations,
 on the gates still to be cleared, or on the constraints the path must satisfy are particularly
 welcome.
+
+## Article: angular-momentum removal (2026)
+
+Sources, figures and code: [article-moment-cinetique](article-moment-cinetique/)
+
+DOI: https://doi.org/10.5281/zenodo.22844012

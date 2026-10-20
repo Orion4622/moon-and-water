@@ -1,3 +1,4 @@
+**This version is obsolete.** It has been superseded by a new, distinct monograph (October 2026): *A retrodictive theory of the origin of the Moon: a secondary circumterrestrial disk redistributed by the retrograde flyby of a rocky planet* (version V_1.0), https://doi.org/10.5281/zenodo.23391968. The sense of the flyby is defined there relative to the rotation of the Earth, and planet B supplies no material. The text below is kept for the record only.
 # The Moon and Water
 
 ## Secondary Circumterrestrial Disk and Non-Collisional Passage of a Massive Planetary Body

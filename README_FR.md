@@ -1,3 +1,5 @@
+**Cette version est obsolète.** Elle est remplacée par une nouvelle monographie, distincte (octobre 2026) : *Une théorie rétrodictive de l'origine de la Lune : un disque circumterrestre secondaire remanié par le survol rétrograde d'une planète rocheuse* (version V_1.0), https://doi.org/10.5281/zenodo.23391968. Le sens du survol y est défini par rapport à la rotation de la Terre, et la planète B ne fournit aucune matière. Le texte ci-dessous est conservé à titre de mémoire seulement.
+
 # La Lune et l'eau
 
 ## Disque secondaire circumterrestre et passage non collisionnel d'un corps planétaire massif
